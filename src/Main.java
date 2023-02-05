@@ -55,6 +55,9 @@ public class Main {
         LimitingRectangle rectangle = new LimitingRectangle(new int[][] {{1, 2}, {3, 4}});
         System.out.println(rectangle.getHeight());
         System.out.println(rectangle.getWidth());
-
+        System.out.println(programmer);
+        System.out.println(rectangle.getWidth());
+        System.out.println(rectangle.getWidth());
+        
     }
 }
