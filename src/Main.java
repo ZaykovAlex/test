@@ -58,6 +58,6 @@ public class Main {
         System.out.println(programmer);
         System.out.println(rectangle.getWidth());
         System.out.println(rectangle.getWidth());
-        
+        System.out.println("LOL");
     }
 }
